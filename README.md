@@ -1,4 +1,4 @@
-# PCPS_DL: A Deep Learning Pathomic Signature Predicts Survival and Recurrence in Pancreatic Ductal Adenocarcinoma
+# PCPSDL: A Deep Learning Pathomic Signature Predicts Survival and Recurrence in Pancreatic Ductal Adenocarcinoma
 
 This repository contains the analysis code for the paper:
 
@@ -10,7 +10,7 @@ This repository contains the analysis code for the paper:
 
 ## Overview
 
-We developed and validated **PCPS_DL** (PDAC CellProfiler Pathomic Signature - Deep Learning), a deep learning-based pathomic prognostic model for pancreatic ductal adenocarcinoma (PDAC) using routinely acquired H&E-stained whole-slide images (WSIs).
+We developed and validated **PCPSDL** (PDAC CellProfiler Pathomic Signature - Deep Learning), a deep learning-based pathomic prognostic model for pancreatic ductal adenocarcinoma (PDAC) using routinely acquired H&E-stained whole-slide images (WSIs).
 
 ### Key Findings
 
