@@ -1,0 +1,38 @@
+# Python Dependencies
+# ==================
+# Core
+torch>=1.12
+numpy>=1.21
+pandas>=1.4
+scipy>=1.7
+
+# Deep Learning Survival Models
+pycox>=0.3.0
+
+# Machine Learning
+scikit-learn>=1.0
+scikit-optimize>=0.9
+
+# Image Processing
+Pillow>=9.0
+openslide-python>=1.2.0
+histolab>=0.6.0
+
+# Visualization
+matplotlib>=3.5
+
+# Model Interpretability
+shap>=0.48.0
+
+# R Dependencies (install via install.packages() or BiocManager)
+# ==============================================================
+# Data I/O:        readxl, openxlsx, writexl
+# Data wrangling:  dplyr, tidyr, stringr
+# Survival:        survival, survminer, timeROC, rms
+# ML framework:    caret, glmnet, randomForestSRC, gbm, CoxBoost,
+#                  survivalsvm, BART, plsRcox, mixOmics, superpc
+# Deep learning:   reticulate (Python interface)
+# DEG analysis:    DESeq2 (1.38.3), edgeR (3.36.0), limma
+# Enrichment:      clusterProfiler (4.10.1), org.Hs.eg.db
+# Visualization:   ggplot2, ggprism, ComplexHeatmap, pheatmap
+# PCA:             FactoMineR, factoextra

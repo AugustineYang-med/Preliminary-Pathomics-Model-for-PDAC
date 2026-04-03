@@ -1,0 +1,54 @@
+# Data files (too large for Git)
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.tsv.gz
+*.RData
+*.rds
+*.rda
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Image files (large)
+*.svs
+*.kfb
+*.tif
+*.tiff
+*.ndpi
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
